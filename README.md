@@ -1,5 +1,16 @@
 This is a native-react practice
 =============
+
+> Using Tools
+
+OS: Windows10 Home
+
+Language : Javascript(Native-React Javascript)
+
+Developement Tools : VS Code, Expo, Android Studio
+
+
+
 > Main Screen
 
 ![main](https://user-images.githubusercontent.com/43158428/123598450-80bf1100-d82f-11eb-9433-a07b5ed640d3.PNG)
