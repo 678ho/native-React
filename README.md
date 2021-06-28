@@ -14,3 +14,8 @@ Press : Keep press
 
 Press out : Release the mouse left button
 
+> propsConsoleLog
+
+![propsConsoleLogChildren](https://user-images.githubusercontent.com/43158428/123599100-338f6f00-d830-11eb-857f-8f414d8c5789.PNG)
+
+children button's title && parent button's title props
